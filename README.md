@@ -8,16 +8,16 @@
 _This has a picture of a kitten, and links to favorite things, my pets, and a link to the epicodus school's website._
 
 ## Setup/Installation Requirments
-*Clone this repository
-*Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:
+* Clone this repository
+* Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:
 Click to open file.
 
 ## Support and contact details
 _Contact us via email_
 
 ## Technologies Used
-*HTML
+* HTML
 
 ### Licenses
-*Copyright(c) 2018 Brian Henry, Azamat Bekmuratov
+* Copyright(c) 2018 Brian Henry, Azamat Bekmuratov
 This software is licensed under the MIT license.
